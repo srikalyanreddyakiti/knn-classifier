@@ -32,5 +32,4 @@ The notebook uses a sample dataset (e.g., Iris, or any custom dataset). You can 
 
 ## 👨‍💻 Author  
 **Akiti Sri Kalyan Reddy**  
-B.Tech – Data Science and Artificial Intelligence  
-ICFAI University, Hyderabad  
+Data Science and Artificial Intelligence  
